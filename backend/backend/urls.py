@@ -13,9 +13,9 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="Beer API",
+      title="Cost Accounting Manager API",
       default_version='v1',
-      description="api beer code ",
+      description="апи для менеджера учета расходов",
    ),
    public=True,
    permission_classes=[permissions.AllowAny],
