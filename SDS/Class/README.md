@@ -8,4 +8,4 @@
 ## Диаграмма классов Model архитектуры MVT
 Class диаграмма приложения "Dash":
 
-![Диаграмма классов Model архитектуры MVT](../Images/5/class_diagr.png)
+![Диаграмма классов Model архитектуры MVT](../Images/5/class_diagram.png)

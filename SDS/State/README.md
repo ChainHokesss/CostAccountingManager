@@ -1,4 +1,4 @@
 # Диаграмма состояний
 
-Component/deployment диаграмма приложения "Dash":
-![Диалог добавления напоминания](../Images/State.png)
+Component/deployment диаграмма приложения "CA manager API":
+![Диалог добавления напоминания](../Images/4/state_diagr.png)

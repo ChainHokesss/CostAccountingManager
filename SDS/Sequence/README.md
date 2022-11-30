@@ -5,7 +5,7 @@
 2. [Вход](#sign_in)
 3. [Просмотр транзакций](#show_transactions)
 4. [Создание транзакции](#create_transaction)
-5. [Создание в категории](#create_category)
+5. [Создание категории](#create_category)
 
 <a name="register"/>
 
@@ -20,18 +20,18 @@
 
 <a name="show_transactions"/>
 
-# 3. Просмотр товаров
-![Просмотр товаров](../Images/3/Sequence_get_transactions.png)
+# 3. Просмотр транзакций
+![Просмотр транзакций](../Images/3/Sequence_get_transactions.png)
 
 
 
 <a name="create_transaction"/>
 
-# 4. Оформление заказа
-![Оформление заказа](../Images/3/Sequence_add_transaction.png)
+# 4. Создание транзакции
+![Создание транзакции](../Images/3/Sequence_add_transaction.png)
 
 
 <a name="create_category"/>
 
-# 5. Обращение в поддержку
-![Обращение в поддержку](../Images/3/Sequence_add_category.png)
+# 5. Создание категории
+![Создание категории](../Images/3/Sequence_add_category.png)
