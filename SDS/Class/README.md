@@ -6,6 +6,6 @@
 <a name="model"/>
 
 ## Диаграмма классов Model архитектуры MVT
-Class диаграмма приложения "Dash":
+Class диаграмма приложения "CA manager API":
 
-![Диаграмма классов Model архитектуры MVT](../Images/5/class_diagram.png)
+![Диаграмма классов Model архитектуры MVT](../Images/5/class_diagr.png)
